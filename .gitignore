@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+logs/
+browser_profiles/
+chrome_profile/
+
+.env
+.venv/
+venv/
+
+*.log

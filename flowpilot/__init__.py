@@ -1,0 +1,2 @@
+"""FlowPilot AI automation package."""
+
